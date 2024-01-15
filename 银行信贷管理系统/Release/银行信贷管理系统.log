@@ -1,0 +1,7 @@
+﻿  银行管理系统.cpp
+银行管理系统.obj : error LNK2001: 无法解析的外部符号 "public: void __thiscall 银行操作系统::清空文档(void)" (?清空文档@银行操作系统@@QAEXXZ)
+银行管理系统.obj : error LNK2001: 无法解析的外部符号 "public: void __thiscall 银行操作系统::删除人员(void)" (?删除人员@银行操作系统@@QAEXXZ)
+银行管理系统.obj : error LNK2001: 无法解析的外部符号 "public: void __thiscall 银行操作系统::查询还款记录(void)" (?查询还款记录@银行操作系统@@QAEXXZ)
+银行管理系统.obj : error LNK2001: 无法解析的外部符号 "public: void __thiscall 银行操作系统::查询贷款记录(void)" (?查询贷款记录@银行操作系统@@QAEXXZ)
+银行管理系统.obj : error LNK2001: 无法解析的外部符号 "public: void __thiscall 银行操作系统::还贷款(void)" (?还贷款@银行操作系统@@QAEXXZ)
+A:\C++project_file\银行信贷管理系统\Release\银行信贷管理系统.exe : fatal error LNK1120: 5 个无法解析的外部命令
